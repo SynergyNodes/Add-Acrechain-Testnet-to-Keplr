@@ -1,6 +1,4 @@
-# Add-Acrechain-Testnet-to-Keplr
-
-# Adding Arable Testnet to Keplr wallet
+# Add Acrechain Testnet to Keplr wallet
 
 You can follow these steps in Google Chrome, Brave browser or any other browser which supports Keplr wallet extension. 
 
