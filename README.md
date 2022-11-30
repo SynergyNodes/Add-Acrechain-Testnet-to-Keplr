@@ -35,7 +35,7 @@ window.keplr.experimentalSuggestChain({
   	"currencies": [
   		{
   			"coinDenom": "acre",
-  			"coinMinimalDenom": "uacre",
+  			"coinMinimalDenom": "aacre",
   			"coinDecimals": 18,
   			"coinGeckoId": "unknown"
   		}
@@ -43,21 +43,21 @@ window.keplr.experimentalSuggestChain({
   	"feeCurrencies": [
   		{
   			"coinDenom": "acre",
-  			"coinMinimalDenom": "uacre",
+  			"coinMinimalDenom": "aacre",
   			"coinDecimals": 18,
   			"coinGeckoId": "unknown"
   		}
   	],
   	"stakeCurrency": {
   		"coinDenom": "acre",
-  		"coinMinimalDenom": "uacre",
+  		"coinMinimalDenom": "aacre",
   		"coinDecimals": 18,
   		"coinGeckoId": "unknown"
   	},
   	"gasPriceStep": {
-  		"low": 10000000000,
-  		"average": 20000000000,
-  		"high": 30000000000
+  		"low": 0.01,
+  		"average": 0.025,
+  		"high": 0.03
   	},
   	"features": [
   		"ibc-transfer",
