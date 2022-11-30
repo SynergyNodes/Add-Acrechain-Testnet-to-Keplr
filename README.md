@@ -82,7 +82,7 @@ window.keplr.experimentalSuggestChain({
 
 ## 7) Close Keplr Wallet and re-open it.
 
-## 8) Click on the networks present at top of Keplr Wallet, scroll down, and select ``Arable Testnet``.
+## 8) Click on the networks present at top of Keplr Wallet, scroll down, and select ``Acrechain Testnet``.
 
 ![](https://www.synergynodes.com/images/arable-testnet-keplr/Arable-Testnet-Keplr-06-min.png)
 
